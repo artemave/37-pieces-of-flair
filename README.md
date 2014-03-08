@@ -5,3 +5,7 @@
 [![Dependency Status](https://gemnasium.com/artemave/37-pieces-of-flair.png)](https://gemnasium.com/artemave/37-pieces-of-flair)
 [![Still Maintained](http://stillmaintained.com/artemave/37-pieces-of-flair.png)](http://stillmaintained.com/artemave/37-pieces-of-flair)
 [![Code Climate](https://codeclimate.com/github/artemave/37-pieces-of-flair.png)](https://codeclimate.com/github/artemave/37-pieces-of-flair)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/artemave/37-pieces-of-flair/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
