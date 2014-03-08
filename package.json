@@ -1,0 +1,22 @@
+{
+  "name": "37-pieces-of-flair",
+  "version": "0.0.1",
+  "description": "to get the badge, you know",
+  "license": "MIT",
+  "author": "artemave@gmail.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/artemave/37-pieces-of-flair"
+  },
+  "dependencies": {
+    "grunt-bump": "0.0.11"
+  },
+  "bugs": {
+    "url": "https://github.com/artemave/37-pieces-of-flair/issues"
+  },
+  "homepage": "https://github.com/artemave/37-pieces-of-flair",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Success!\" && exit 0"
+  }
+}
