@@ -1,0 +1,4 @@
+build:
+  steps:
+    - npm-install
+    - npm-test
