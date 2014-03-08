@@ -2,3 +2,4 @@
 [![Gem Version](https://badge.fury.io/rb/37-pieces-of-flair.png)](http://badge.fury.io/rb/37-pieces-of-flair)
 [![GitHub version](https://badge.fury.io/gh/artemave%2F37-pieces-of-flair.png)](http://badge.fury.io/gh/artemave%2F37-pieces-of-flair)
 [![NPM version](https://badge.fury.io/js/37-pieces-of-flair.png)](http://badge.fury.io/js/37-pieces-of-flair)
+[![Dependency Status](https://gemnasium.com/artemave/37-pieces-of-flair.png)](https://gemnasium.com/artemave/37-pieces-of-flair)
