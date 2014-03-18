@@ -9,3 +9,6 @@
 [![wercker status](https://app.wercker.com/status/dbb3610426d65fd5699570ca58f942ce/s/master "wercker status")](https://app.wercker.com/project/bykey/dbb3610426d65fd5699570ca58f942ce)
 [![gittip](http://img.shields.io/gittip/artemave.svg)](http://img.shields.io/gittip/artemave.svg)
 [![37 Pieces](http://img.shields.io/badge/37-pieces%20of%20flair-brightgreen.svg)](https://github.com/artemave/37-pieces-of-flair)
+
+
+[![NPM](https://nodei.co/npm/37-pieces-of-flair.png?downloads=true)](https://nodei.co/npm/37-pieces-of-flair/)
