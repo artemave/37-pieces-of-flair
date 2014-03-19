@@ -10,7 +10,7 @@
 [![gittip](http://img.shields.io/gittip/artemave.svg)](http://img.shields.io/gittip/artemave.svg)
 [![37 Pieces](http://img.shields.io/badge/37-pieces%20of%20flair-brightgreen.svg)](https://github.com/artemave/37-pieces-of-flair)
 ![Codeship](https://www.codeship.io/projects/2fd6ac80-8d30-0131-79d8-6e593527c391/status)
-[![NPM](https://nodei.co/npm/37-pieces-of-flair.png?downloads=true)](https://nodei.co/npm/37-pieces-of-flair/)
+[![NPM](https://nodei.co/npm/37-pieces-of-flair.png?mini=true)](https://nodei.co/npm/37-pieces-of-flair/)
 [![HTML5](http://www.w3.org/html/logo/downloads/HTML5_Badge_32.png)](http://www.w3.org/TR/html5/)
 [![Internet Explorer](images/ie.gif?raw=true)](http://en.wikipedia.org/wiki/Internet_Explorer)
 [![Netscape Navigator](images/netscape.gif?raw=true)](http://en.wikipedia.org/wiki/Netscape_Navigator)
