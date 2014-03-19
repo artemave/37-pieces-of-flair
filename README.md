@@ -13,3 +13,5 @@
 
 [![NPM](https://nodei.co/npm/37-pieces-of-flair.png?downloads=true)](https://nodei.co/npm/37-pieces-of-flair/)
 [![HTML5](http://www.w3.org/html/logo/downloads/HTML5_Badge_32.png)](http://www.w3.org/TR/html5/)
+[![Internet Explorer](images/ie.gif?raw=true)](http://en.wikipedia.org/wiki/Internet_Explorer)
+[![Netscape Navigator](images/netscape.gif?raw=true)](http://en.wikipedia.org/wiki/Netscape_Navigator)
