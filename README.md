@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/artemave/37-pieces-of-flair.png?label=ready&title=Ready)](https://waffle.io/artemave/37-pieces-of-flair)
 [![Build Status](https://travis-ci.org/artemave/37-pieces-of-flair.png)](https://travis-ci.org/artemave/37-pieces-of-flair)
 [![Drone.io](https://drone.io/github.com/joshski/37-pieces-of-flair/status.png)](https://drone.io/github.com/joshski/37-pieces-of-flair/latest)
 [![Gem Version](https://badge.fury.io/rb/37-pieces-of-flair.png)](http://badge.fury.io/rb/37-pieces-of-flair)
