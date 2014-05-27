@@ -1,3 +1,4 @@
+[![License](http://img.shields.io/:license-mit-blue.svg)](http://artemave.mit-license.org)
 [![Stories in Ready](https://badge.waffle.io/artemave/37-pieces-of-flair.png?label=ready&title=Ready)](https://waffle.io/artemave/37-pieces-of-flair)
 [![Build Status](https://travis-ci.org/artemave/37-pieces-of-flair.png)](https://travis-ci.org/artemave/37-pieces-of-flair)
 [![Drone.io](https://drone.io/github.com/joshski/37-pieces-of-flair/status.png)](https://drone.io/github.com/joshski/37-pieces-of-flair/latest)
