@@ -23,6 +23,14 @@
 <a href="http://floobits.com/artemave/37-pieces-of-flair/redirect">
   <img alt="Floobits status" width="100" height="40" src="http://floobits.com/artemave/37-pieces-of-flair.png" />
 </a>
+[![docs examples](https://sourcegraph.com/api/repos/github.com/artemave/37-pieces-of-flair/.badges/docs-examples.png)](https://sourcegraph.com/github.com/artemave/37-pieces-of-flair)
+[![dependencies](https://sourcegraph.com/api/repos/github.com/artemave/37-pieces-of-flair/.badges/dependencies.png)](https://sourcegraph.com/github.com/artemave/37-pieces-of-flair)
+[![status](https://sourcegraph.com/api/repos/github.com/artemave/37-pieces-of-flair/.badges/status.png)](https://sourcegraph.com/github.com/artemave/37-pieces-of-flair)
+[![funcs](https://sourcegraph.com/api/repos/github.com/artemave/37-pieces-of-flair/.badges/funcs.png)](https://sourcegraph.com/github.com/artemave/37-pieces-of-flair)
+[![top func](https://sourcegraph.com/api/repos/github.com/artemave/37-pieces-of-flair/.badges/top-func.png)](https://sourcegraph.com/github.com/artemave/37-pieces-of-flair)
+[![library users](https://sourcegraph.com/api/repos/github.com/artemave/37-pieces-of-flair/.badges/library-users.png)](https://sourcegraph.com/github.com/artemave/37-pieces-of-flair)
+[![authors](https://sourcegraph.com/api/repos/github.com/artemave/37-pieces-of-flair/.badges/authors.png)](https://sourcegraph.com/github.com/artemave/37-pieces-of-flair)
+[![xrefs](https://sourcegraph.com/api/repos/github.com/artemave/37-pieces-of-flair/.badges/xrefs.png)](https://sourcegraph.com/github.com/artemave/37-pieces-of-flair)
 [![HTML5](http://www.w3.org/html/logo/downloads/HTML5_Badge_32.png)](http://www.w3.org/TR/html5/)
 [![Internet Explorer](images/ie.gif?raw=true)](http://en.wikipedia.org/wiki/Internet_Explorer)
 [![Netscape Navigator](images/netscape.gif?raw=true)](http://en.wikipedia.org/wiki/Netscape_Navigator)
