@@ -40,3 +40,5 @@
 [![Internet Explorer](images/ie.gif?raw=true)](http://en.wikipedia.org/wiki/Internet_Explorer)
 [![Netscape Navigator](images/netscape.gif?raw=true)](http://en.wikipedia.org/wiki/Netscape_Navigator)
 [![37 Pieces](http://img.shields.io/badge/37-pieces%20of%20flair-brightgreen.svg)](https://github.com/artemave/37-pieces-of-flair)
+
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/artemave/37-pieces-of-flair?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
