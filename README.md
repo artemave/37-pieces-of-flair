@@ -14,6 +14,7 @@
 [![Inline docs](http://inch-ci.org/github/artemave/37-pieces-of-flair.png)](http://inch-ci.org/github/artemave/37-pieces-of-flair)
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/artemave/37-pieces-of-flair/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 [![wercker status](https://app.wercker.com/status/dbb3610426d65fd5699570ca58f942ce/s/master "wercker status")](https://app.wercker.com/project/bykey/dbb3610426d65fd5699570ca58f942ce)
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/artemave/37-pieces-of-flair)
 [![gittip](http://img.shields.io/gittip/artemave.svg)](http://img.shields.io/gittip/artemave.svg)
 [![endorse](https://api.coderwall.com/artemave/endorsecount.png)](https://coderwall.com/artemave)
 [![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=artemave&url=https://github.com/artemave/37-pieces-of-flair&title=37-pieces-of-flair&tags=github&category=software)
@@ -41,4 +42,3 @@
 [![Netscape Navigator](images/netscape.gif?raw=true)](http://en.wikipedia.org/wiki/Netscape_Navigator)
 [![37 Pieces](http://img.shields.io/badge/37-pieces%20of%20flair-brightgreen.svg)](https://github.com/artemave/37-pieces-of-flair)
 
-[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/artemave/37-pieces-of-flair?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
