@@ -38,6 +38,7 @@
   <img alt="Floobits status" width="100" height="40" src="http://floobits.com/artemave/37-pieces-of-flair.png" />
 </a>
 [![docs examples](https://sourcegraph.com/api/repos/github.com/artemave/37-pieces-of-flair/.badges/docs-examples.png)](https://sourcegraph.com/github.com/artemave/37-pieces-of-flair)
+[![views](https://sourcegraph.com/api/repos/github.com/artemave/37-pieces-of-flair/.counters/views.png)](https://sourcegraph.com/api/repos/github.com/artemave/37-pieces-of-flair)
 
 [![status](https://sourcegraph.com/api/repos/github.com/artemave/37-pieces-of-flair/.badges/status.png)](https://sourcegraph.com/github.com/artemave/37-pieces-of-flair)
 [![funcs](https://sourcegraph.com/api/repos/github.com/artemave/37-pieces-of-flair/.badges/funcs.png)](https://sourcegraph.com/github.com/artemave/37-pieces-of-flair)
