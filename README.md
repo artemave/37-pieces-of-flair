@@ -22,9 +22,8 @@
 [![Code Climate](https://codeclimate.com/github/artemave/37-pieces-of-flair.png)](https://codeclimate.com/github/artemave/37-pieces-of-flair)
 [![hakiri](https://hakiri.io/github/artemave/37-pieces-of-flair/master.svg)](https://hakiri.io/github/artemave/37-pieces-of-flair)
 ![Codeship](https://www.codeship.io/projects/2fd6ac80-8d30-0131-79d8-6e593527c391/status)
+[![PullReview stats](https://www.pullreview.com/github/artemave/37-pieces-of-flair/badges/master.svg?)](https://www.pullreview.com/github/artemave/37-pieces-of-flair/reviews/master)
 
-
-[![Inline docs](http://inch-ci.org/github/artemave/37-pieces-of-flair.png)](http://inch-ci.org/github/artemave/37-pieces-of-flair)
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/artemave/37-pieces-of-flair/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
@@ -38,6 +37,7 @@
   <img alt="Floobits status" width="100" height="40" src="http://floobits.com/artemave/37-pieces-of-flair.png" />
 </a>
 [![docs examples](https://sourcegraph.com/api/repos/github.com/artemave/37-pieces-of-flair/.badges/docs-examples.png)](https://sourcegraph.com/github.com/artemave/37-pieces-of-flair)
+[![Inline docs](http://inch-ci.org/github/artemave/37-pieces-of-flair.png)](http://inch-ci.org/github/artemave/37-pieces-of-flair)
 [![views](https://sourcegraph.com/api/repos/github.com/artemave/37-pieces-of-flair/.counters/views.png)](https://sourcegraph.com/api/repos/github.com/artemave/37-pieces-of-flair)
 
 [![status](https://sourcegraph.com/api/repos/github.com/artemave/37-pieces-of-flair/.badges/status.png)](https://sourcegraph.com/github.com/artemave/37-pieces-of-flair)
