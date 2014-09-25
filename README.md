@@ -5,6 +5,8 @@
 [![wercker status](https://app.wercker.com/status/dbb3610426d65fd5699570ca58f942ce/s/master "wercker status")](https://app.wercker.com/project/bykey/dbb3610426d65fd5699570ca58f942ce)
 [![Selenium Test Status](https://saucelabs.com/buildstatus/artemave)](https://saucelabs.com/u/artemave)
 
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
 [![Gem Version](https://badge.fury.io/rb/37-pieces-of-flair.png)](http://badge.fury.io/rb/37-pieces-of-flair)
 [![GitHub version](https://badge.fury.io/gh/artemave%2F37-pieces-of-flair.png)](http://badge.fury.io/gh/artemave%2F37-pieces-of-flair)
 [![NPM version](https://badge.fury.io/js/37-pieces-of-flair.png)](http://badge.fury.io/js/37-pieces-of-flair)
