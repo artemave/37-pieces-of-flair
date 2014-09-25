@@ -5,6 +5,7 @@
 [![wercker status](https://app.wercker.com/status/dbb3610426d65fd5699570ca58f942ce/s/master "wercker status")](https://app.wercker.com/project/bykey/dbb3610426d65fd5699570ca58f942ce)
 [![Selenium Test Status](https://saucelabs.com/buildstatus/artemave)](https://saucelabs.com/u/artemave)
 [![Build Status](https://semaphoreapp.com/api/v1/projects/fe674707-595b-4e22-a68d-40f6ae8816e8/255772/badge.png)](https://semaphoreapp.com/artemave/37-pieces-of-flair)
+[![Codeship](https://www.codeship.io/projects/2fd6ac80-8d30-0131-79d8-6e593527c391/status)](https://www.codeship.io/projects/15995)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
@@ -24,7 +25,6 @@
 
 [![Code Climate](https://codeclimate.com/github/artemave/37-pieces-of-flair.png)](https://codeclimate.com/github/artemave/37-pieces-of-flair)
 [![hakiri](https://hakiri.io/github/artemave/37-pieces-of-flair/master.svg)](https://hakiri.io/github/artemave/37-pieces-of-flair)
-![Codeship](https://www.codeship.io/projects/2fd6ac80-8d30-0131-79d8-6e593527c391/status)
 [![PullReview stats](https://www.pullreview.com/github/artemave/37-pieces-of-flair/badges/master.svg?)](https://www.pullreview.com/github/artemave/37-pieces-of-flair/reviews/master)
 
 
