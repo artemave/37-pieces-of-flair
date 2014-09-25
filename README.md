@@ -4,6 +4,7 @@
 [![Drone.io](https://drone.io/github.com/joshski/37-pieces-of-flair/status.png)](https://drone.io/github.com/joshski/37-pieces-of-flair/latest)
 [![wercker status](https://app.wercker.com/status/dbb3610426d65fd5699570ca58f942ce/s/master "wercker status")](https://app.wercker.com/project/bykey/dbb3610426d65fd5699570ca58f942ce)
 [![Selenium Test Status](https://saucelabs.com/buildstatus/artemave)](https://saucelabs.com/u/artemave)
+[![Build Status](https://semaphoreapp.com/api/v1/projects/fe674707-595b-4e22-a68d-40f6ae8816e8/255772/badge.png)](https://semaphoreapp.com/artemave/37-pieces-of-flair)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
