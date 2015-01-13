@@ -23,6 +23,8 @@
 
 [![Still Maintained](http://stillmaintained.com/artemave/37-pieces-of-flair.png)](http://stillmaintained.com/artemave/37-pieces-of-flair)
 
+[![unstable](http://badges.github.io/stability-badges/dist/unstable.svg)](http://github.com/badges/stability-badges)
+
 [![Code Climate](https://codeclimate.com/github/artemave/37-pieces-of-flair.png)](https://codeclimate.com/github/artemave/37-pieces-of-flair)
 [![hakiri](https://hakiri.io/github/artemave/37-pieces-of-flair/master.svg)](https://hakiri.io/github/artemave/37-pieces-of-flair)
 [![PullReview stats](https://www.pullreview.com/github/artemave/37-pieces-of-flair/badges/master.svg?)](https://www.pullreview.com/github/artemave/37-pieces-of-flair/reviews/master)
